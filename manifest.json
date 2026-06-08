@@ -1,0 +1,38 @@
+﻿{
+    "releaseDate":  "2026-06-08",
+    "categories":  [
+                       {
+                           "families":  [
+                                            {
+                                                "isNew":  true,
+                                                "name":  "Door 1",
+                                                "file":  "Architecture/Door/Door 1.rfa"
+                                            },
+                                            {
+                                                "isNew":  true,
+                                                "name":  "Door 2",
+                                                "file":  "Architecture/Door/Door 2.rfa"
+                                            },
+                                            {
+                                                "isNew":  true,
+                                                "name":  "Door 3",
+                                                "file":  "Architecture/Door/Door 3.rfa"
+                                            },
+                                            {
+                                                "isNew":  true,
+                                                "name":  "Door 4",
+                                                "file":  "Architecture/Door/Door 4.rfa"
+                                            },
+                                            {
+                                                "isNew":  true,
+                                                "name":  "Door 5",
+                                                "file":  "Architecture/Door/Door 5.rfa"
+                                            }
+                                        ],
+                           "name":  "Architecture"
+                       }
+                   ],
+    "version":  "1.0.0",
+    "downloadUrl":  "https://github.com/dsales-architect/premium-library/releases/download/v1.0.0/library.zip",
+    "totalFamilies":  5
+}
