@@ -1,38 +1,303 @@
 ﻿{
-    "releaseDate":  "2026-06-08",
+    "releaseDate":  "2026-06-18",
     "categories":  [
                        {
                            "families":  [
                                             {
-                                                "isNew":  true,
+                                                "isNew": false,
+                                                "name":  "2D-SOFA 11",
+                                                "file":  "Architectural/2D Blocks/2D-SOFA 11.rfa"
+                                            },
+                                            {
+                                                "isNew": false,
+                                                "name":  "2D-SOFA 12",
+                                                "file":  "Architectural/2D Blocks/2D-SOFA 12.rfa"
+                                            },
+                                            {
+                                                "isNew": false,
+                                                "name":  "2D-SOFA 13",
+                                                "file":  "Architectural/2D Blocks/2D-SOFA 13.rfa"
+                                            },
+                                            {
+                                                "isNew": false,
+                                                "name":  "2D-SOFA 14",
+                                                "file":  "Architectural/2D Blocks/2D-SOFA 14.rfa"
+                                            },
+                                            {
+                                                "isNew": false,
+                                                "name":  "2D-SOFA 15",
+                                                "file":  "Architectural/2D Blocks/2D-SOFA 15.rfa"
+                                            },
+                                            {
+                                                "isNew": false,
+                                                "name":  "2D-SOFA 16",
+                                                "file":  "Architectural/2D Blocks/2D-SOFA 16.rfa"
+                                            },
+                                            {
+                                                "isNew": false,
+                                                "name":  "2D-SOFA 17",
+                                                "file":  "Architectural/2D Blocks/2D-SOFA 17.rfa"
+                                            },
+                                            {
+                                                "isNew": false,
+                                                "name":  "2D-SOFA 18",
+                                                "file":  "Architectural/2D Blocks/2D-SOFA 18.rfa"
+                                            },
+                                            {
+                                                "isNew": false,
+                                                "name":  "2D-SOFA 19",
+                                                "file":  "Architectural/2D Blocks/2D-SOFA 19.rfa"
+                                            },
+                                            {
+                                                "isNew": false,
+                                                "name":  "2D-SOFA 20",
+                                                "file":  "Architectural/2D Blocks/2D-SOFA 20.rfa"
+                                            },
+                                            {
+                                                "isNew": false,
+                                                "name":  "2D-SOFA-L SHAPE 1",
+                                                "file":  "Architectural/2D Blocks/2D-SOFA-L SHAPE 1.rfa"
+                                            },
+                                            {
+                                                "isNew": false,
+                                                "name":  "2D-SOFA-L SHAPE 10",
+                                                "file":  "Architectural/2D Blocks/2D-SOFA-L SHAPE 10.rfa"
+                                            },
+                                            {
+                                                "isNew": false,
+                                                "name":  "2D-SOFA-L SHAPE 2",
+                                                "file":  "Architectural/2D Blocks/2D-SOFA-L SHAPE 2.rfa"
+                                            },
+                                            {
+                                                "isNew": false,
+                                                "name":  "2D-SOFA-L SHAPE 3",
+                                                "file":  "Architectural/2D Blocks/2D-SOFA-L SHAPE 3.rfa"
+                                            },
+                                            {
+                                                "isNew": false,
+                                                "name":  "2D-SOFA-L SHAPE 4",
+                                                "file":  "Architectural/2D Blocks/2D-SOFA-L SHAPE 4.rfa"
+                                            },
+                                            {
+                                                "isNew": false,
+                                                "name":  "2D-SOFA-L SHAPE 5",
+                                                "file":  "Architectural/2D Blocks/2D-SOFA-L SHAPE 5.rfa"
+                                            },
+                                            {
+                                                "isNew": false,
+                                                "name":  "2D-SOFA-L SHAPE 6",
+                                                "file":  "Architectural/2D Blocks/2D-SOFA-L SHAPE 6.rfa"
+                                            },
+                                            {
+                                                "isNew": false,
+                                                "name":  "2D-SOFA-L SHAPE 7",
+                                                "file":  "Architectural/2D Blocks/2D-SOFA-L SHAPE 7.rfa"
+                                            },
+                                            {
+                                                "isNew": false,
+                                                "name":  "2D-SOFA-L SHAPE 8",
+                                                "file":  "Architectural/2D Blocks/2D-SOFA-L SHAPE 8.rfa"
+                                            },
+                                            {
+                                                "isNew": false,
+                                                "name":  "2D-SOFA-L SHAPE 9",
+                                                "file":  "Architectural/2D Blocks/2D-SOFA-L SHAPE 9.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
                                                 "name":  "Door 1",
                                                 "file":  "Architectural/Doors/Door 1.rfa"
                                             },
                                             {
-                                                "isNew":  true,
+                                                "isNew": true,
                                                 "name":  "Door 2",
                                                 "file":  "Architectural/Doors/Door 2.rfa"
                                             },
                                             {
-                                                "isNew":  true,
+                                                "isNew": true,
                                                 "name":  "Door 3",
                                                 "file":  "Architectural/Doors/Door 3.rfa"
                                             },
                                             {
-                                                "isNew":  true,
+                                                "isNew": true,
                                                 "name":  "Door 4",
                                                 "file":  "Architectural/Doors/Door 4.rfa"
                                             },
                                             {
-                                                "isNew":  true,
+                                                "isNew": true,
                                                 "name":  "Door 5",
                                                 "file":  "Architectural/Doors/Door 5.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
+                                                "name":  "40X50 SOFA",
+                                                "file":  "Architectural/Furniture/40X50 SOFA.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
+                                                "name":  "BAR STOOL A",
+                                                "file":  "Architectural/Furniture/BAR STOOL A.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
+                                                "name":  "BED CATALOUGE",
+                                                "file":  "Architectural/Furniture/BED CATALOUGE.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
+                                                "name":  "BED SIDE TABLE",
+                                                "file":  "Architectural/Furniture/BED SIDE TABLE.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
+                                                "name":  "BED-TUTORIAL",
+                                                "file":  "Architectural/Furniture/BED-TUTORIAL.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
+                                                "name":  "BIN CHAIR",
+                                                "file":  "Architectural/Furniture/BIN CHAIR.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
+                                                "name":  "CABINET",
+                                                "file":  "Architectural/Furniture/CABINET.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
+                                                "name":  "CALIFONIA KING SIZE BED",
+                                                "file":  "Architectural/Furniture/CALIFONIA KING SIZE BED.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
+                                                "name":  "COFFEE TABLE",
+                                                "file":  "Architectural/Furniture/COFFEE TABLE.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
+                                                "name":  "CURTAIN FLOOR TO CEILING",
+                                                "file":  "Architectural/Furniture/CURTAIN FLOOR TO CEILING.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
+                                                "name":  "Dining Table Set - 4 seaters",
+                                                "file":  "Architectural/Furniture/Dining Table Set - 4 seaters.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
+                                                "name":  "END TABLE",
+                                                "file":  "Architectural/Furniture/END TABLE.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
+                                                "name":  "FULL DOUBLE BED",
+                                                "file":  "Architectural/Furniture/FULL DOUBLE BED.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
+                                                "name":  "KING SIZE BED",
+                                                "file":  "Architectural/Furniture/KING SIZE BED.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
+                                                "name":  "Modular Loft Bed",
+                                                "file":  "Architectural/Furniture/Modular Loft Bed.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
+                                                "name":  "PILLOW",
+                                                "file":  "Architectural/Furniture/PILLOW.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
+                                                "name":  "QUEEN PILLOW",
+                                                "file":  "Architectural/Furniture/QUEEN PILLOW.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
+                                                "name":  "QUEEN SIZE BED",
+                                                "file":  "Architectural/Furniture/QUEEN SIZE BED.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
+                                                "name":  "RESTAURANT KITCHEN",
+                                                "file":  "Architectural/Furniture/RESTAURANT KITCHEN.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
+                                                "name":  "RETAIL BAR COUNTER",
+                                                "file":  "Architectural/Furniture/RETAIL BAR COUNTER.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
+                                                "name":  "RETAIL BAR TABLE",
+                                                "file":  "Architectural/Furniture/RETAIL BAR TABLE.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
+                                                "name":  "RETAIL COUNTER",
+                                                "file":  "Architectural/Furniture/RETAIL COUNTER.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
+                                                "name":  "SEAT FOAM 40X40",
+                                                "file":  "Architectural/Furniture/SEAT FOAM 40X40.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
+                                                "name":  "SOFA 1 SEATER",
+                                                "file":  "Architectural/Furniture/SOFA 1 SEATER.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
+                                                "name":  "SOFA 2 SEATER",
+                                                "file":  "Architectural/Furniture/SOFA 2 SEATER.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
+                                                "name":  "SOFA 3 SEATER",
+                                                "file":  "Architectural/Furniture/SOFA 3 SEATER.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
+                                                "name":  "SOFFA PILLOW",
+                                                "file":  "Architectural/Furniture/SOFFA PILLOW.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
+                                                "name":  "SPEAKER",
+                                                "file":  "Architectural/Furniture/SPEAKER.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
+                                                "name":  "STANDARD PILLOW",
+                                                "file":  "Architectural/Furniture/STANDARD PILLOW.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
+                                                "name":  "TV",
+                                                "file":  "Architectural/Furniture/TV.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
+                                                "name":  "TWIN SINGLE BED",
+                                                "file":  "Architectural/Furniture/TWIN SINGLE BED.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
+                                                "name":  "TWIN XL BED",
+                                                "file":  "Architectural/Furniture/TWIN XL BED.rfa"
+                                            },
+                                            {
+                                                "isNew": true,
+                                                "name":  "VANITY 900",
+                                                "file":  "Architectural/Furniture/VANITY 900.rfa"
                                             }
                                         ],
                            "name":  "Architectural"
                        }
                    ],
-    "version":  "1.0.0",
-    "downloadUrl":  "https://github.com/dsalesarchitect/Premium-library/releases/download/v1.0.0/library.zip",
-    "totalFamilies":  5
+    "version":  "v18.06.2026",
+    "downloadUrl":  "https://github.com/dsalesarchitect/Premium-library/releases/download/v18.06.2026/library.zip",
+    "totalFamilies":  58
 }
